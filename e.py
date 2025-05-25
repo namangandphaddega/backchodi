@@ -45,13 +45,13 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 # === Configuration ===
-BOT_TOKEN = "7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI"
+BOT_TOKEN = "7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc"
 CHANNEL_ID = "@ISAGIxSCRAPPER"  # Or use channel ID with -100 prefix
 # ========== CONFIGURATION ==========
-BOT_TOKEN = '7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI'
+BOT_TOKEN = '7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc'
 ADMIN_ID = 6353114118  # Replace with your admin Telegram user ID
 CHANNEL_USERNAME = 'https://t.me/+eCgnaV7vrAAwZjk1'  # Replace with your channel username for /verify
-token = "7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI" 
+token = "7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc" 
 bot=telebot.TeleBot(token,parse_mode="HTML")
 owners = ["6353114118", "6353114118"]
 YOUR_ADMIN_ID = "6353114118"
@@ -66,14 +66,14 @@ AUTHORIZED_USERS = {}
 #=========================================#
 API_ID = 14861705
 API_HASH = "1e49cd230c4d124b231af27de9056413"
-BOT_TOKEN = "7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI"
+BOT_TOKEN = "7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc"
 #==================================#
 
 # Replace with your actual bot token
-TOKEN = '7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI'
+TOKEN = '7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc'
 bot = telebot.TeleBot(TOKEN)
 #====================================================
-API_TOKEN = '7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI'
+API_TOKEN = '7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc'
 bot = telebot.TeleBot(API_TOKEN)
 # Function to handle the /start command
 @bot.message_handler(commands=['start'])
@@ -1720,7 +1720,7 @@ Mass Check
 
 API_ID = 14861705  # your API_ID
 API_HASH = "1e49cd230c4d124b231af27de9056413"
-BOT_TOKEN = "7996462440:AAFbJjfCJdnBTGfsDWggqyS0gpKf53BBvfI"
+BOT_TOKEN = "7904603108:AAFcdNk8XMI3zYYji3pKlmr8sRf7RbQksIc"
 app = Client("redeem_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 
